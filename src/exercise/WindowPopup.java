@@ -14,9 +14,14 @@ public class WindowPopup {
 		driver.get("https://admin:admin@the-internet.herokuapp.com");
 		driver.findElement(By.linkText("Basic Auth")).click();
 		
-		System.out.println("Test Git 1");
-		System.out.println("Test Git 2");
-		System.out.println("Test Git 3");
+		System.out.println("Test Git 10");
+		System.out.println("Test Git 100");
+		System.out.println("Test Git 10000");
+		System.out.println("Test Git 100000");
+		System.out.println("Test Git 1000000");
+		System.out.println("Test Git 10000000");
+		
+		
 	}
 
 }
