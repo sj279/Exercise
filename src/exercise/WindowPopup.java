@@ -15,10 +15,7 @@ public class WindowPopup {
 		driver.findElement(By.linkText("Basic Auth")).click();
 		
 		System.out.println("Test Git 10");
-		System.out.println("Test Git 100");
-		
-		System.out.println("Test Git 200");
-		System.out.println("Test Git 3000");
+
 	}
 
 }
