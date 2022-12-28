@@ -19,8 +19,6 @@ public class WindowPopup {
 		
 		System.out.println("Test Git 200");
 		System.out.println("Test Git 3000");
-		System.out.println("Test Git 400000");
-		System.out.println("Test Git 5000000");
 	}
 
 }
