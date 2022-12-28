@@ -9,6 +9,10 @@ public class GitDemo {
 
 		System.out.println("Test Git 10000");
 		System.out.println("Test Git 100000");
+		
+		System.out.println("Test Git 50");
+		System.out.println("Test Git 500");
+		System.out.println("Test Git 5000");
 	}
 
 }
